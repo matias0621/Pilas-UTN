@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1708954650 source:c:\users\marin\onedrive\documentos\nivelatorio\tp_pilas_avanzado\pila.c
+	"pila.h"
+
+1708956625 c:\users\marin\onedrive\documentos\nivelatorio\tp_pilas_avanzado\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1709820208 source:c:\users\marin\onedrive\documentos\nivelatorio\tp_pilas_avanzado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pila.h"
+
